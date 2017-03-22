@@ -4,7 +4,7 @@
   "description": "all ext. dependencies needed for clip_8",
   "main": "index.js",
   "scripts": {
-    "build": "browserify node_modules/interval-tree-1d/interval-tree.js"
+    "build": "browserify node_modules/interval-tree-1d/interval-tree.js > clip8dependencies.js"
   },
   "author": "",
   "license": "UNLICENCED",
