@@ -1,0 +1,17 @@
+{
+  "name": "clip8dependencies",
+  "version": "0.1.0",
+  "description": "all ext. dependencies needed for clip_8",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify node_modules/interval-tree-1d/interval-tree.js"
+  },
+  "author": "",
+  "license": "UNLICENCED",
+  "dependencies": {
+    "interval-tree-1d": "^1.0.3"
+  },
+  "devDependencies": {
+    "browserify": "^14.1.0"
+  }
+}
