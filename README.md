@@ -11,9 +11,11 @@ prerequisites
 
 + npm
 
++ browserify
+```npm install -g browserify```
+
 + on linux it also wanted
 ```sudo apt install nodejs-legacy```
-
 
 build a static bundle
 ---------------------

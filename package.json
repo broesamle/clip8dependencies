@@ -9,7 +9,7 @@
   "author": "",
   "license": "UNLICENCED",
   "dependencies": {
-    "interval-tree-1d": "^1.0.3"
+    "svgpath": "^2.2.1",
   },
   "devDependencies": {
     "browserify": "^14.1.0"
