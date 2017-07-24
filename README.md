@@ -17,6 +17,9 @@ prerequisites
 + on linux it also wanted
 ```sudo apt install nodejs-legacy```
 
++ FIXME: it should be automatic but I needed to do manually:
+```npm install svgpath```
+
 build a static bundle
 ---------------------
 

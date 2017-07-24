@@ -9,7 +9,7 @@
   "author": "",
   "license": "UNLICENCED",
   "dependencies": {
-    "svgpath": "^2.2.1",
+    "svgpath": "^2.2.1"
   },
   "devDependencies": {
     "browserify": "^14.1.0"
